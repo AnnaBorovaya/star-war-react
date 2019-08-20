@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star-war-react/static/css/main.fe81e25b.chunk.css",
+    "main.js": "/star-war-react/static/js/main.4a06e63b.chunk.js",
+    "main.js.map": "/star-war-react/static/js/main.4a06e63b.chunk.js.map",
+    "runtime~main.js": "/star-war-react/static/js/runtime~main.3f554244.js",
+    "runtime~main.js.map": "/star-war-react/static/js/runtime~main.3f554244.js.map",
+    "static/js/2.e44e4442.chunk.js": "/star-war-react/static/js/2.e44e4442.chunk.js",
+    "static/js/2.e44e4442.chunk.js.map": "/star-war-react/static/js/2.e44e4442.chunk.js.map",
+    "index.html": "/star-war-react/index.html",
+    "precache-manifest.10b35e7b7cc8f993bc84fe20e4550011.js": "/star-war-react/precache-manifest.10b35e7b7cc8f993bc84fe20e4550011.js",
+    "service-worker.js": "/star-war-react/service-worker.js",
+    "static/css/main.fe81e25b.chunk.css.map": "/star-war-react/static/css/main.fe81e25b.chunk.css.map"
+  }
+}
